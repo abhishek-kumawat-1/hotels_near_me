@@ -1,5 +1,5 @@
 streamlit
 requests
-geopy.distance 
+geopy
 folium
 streamlit_folium
